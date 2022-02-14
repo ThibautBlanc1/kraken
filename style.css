@@ -1,0 +1,9 @@
+.affiches{
+}
+
+.affiche{
+    width: 69vh;
+    box-shadow: 10px 5px 30px #4db678;
+    margin-left: calc(50% - 34vh);
+    margin-bottom: 10%;
+}
